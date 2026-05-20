@@ -1,5 +1,12 @@
 # @openai/agents-realtime
 
+## 0.11.5
+
+### Patch Changes
+
+- 5610234: fix: add realtime MCP tracing regression coverage
+  - @openai/agents-core@0.11.5
+
 ## 0.11.4
 
 ### Patch Changes
